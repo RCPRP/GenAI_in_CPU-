@@ -1,3 +1,4 @@
+#Colab version https://colab.research.google.com/drive/1rC68wYj0T2pipqCMbAmOtPahwO0y6kQk#scrollTo=UXJb1FtXgKii
 pip install llama-cpp-python==0.1.78
 pip install huggingface_hub
 
